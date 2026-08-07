@@ -10135,3 +10135,25 @@ https://github.com/enterprise/premium-support	request_failed
 
 === 2026-08-07 08:56:34 - 失效订阅 (1 个) ===
 https://47.242.128.61:5000/api/v1/client/subscribe?token=e1da6561dc32d6bb3076019ea2a79e5a	request_failed
+
+=== 2026-08-08 04:50:12 - 失效订阅 (17 个) ===
+https://a105039.lvcha.me/?ch=105039	request_failed
+https://web.dashbit.top/#/register?code=hiYDUxoT	http_429
+https://web.dashbit.top	http_429
+https://web.dashbit.top/	http_429
+https://ss88.beifengyuns.top/s/3995168f7c3d1664c2a745d7cac267b6#https://northmaples.top/	http_403
+http://38.175.196.72:5998/s/007d154f0ebcef26c1a5c8d5b5576689	http_403
+https://ss88.beifengyuns.top/s/3995168f7c3d1664c2a745d7cac267b6	http_403
+https://ss88.beifengyuns.top/s/ddc32faaf6aa5b5125c752750e03ea2d	http_403
+https://kv.074167.xyz/24916ad0-847d-4522-9e17-f4347dee57fd?sub	http_429
+https://lightyun.top/s/10544dbbb5eecad37ed0526dc1b37be6	http_403
+https://link123.52pokemon66.cc/api/v1/client/subscribe?token=6689cf55233f31c63c44b1dc226d43a8	http_403
+https://a105080.lvcha.me/?ch=105080	request_failed
+http://web.dashbit.top/	http_429
+https://a105062.lvcha.me/?ch=105062	request_failed
+http://hhlfy.twiladaphne.ndjp.net/	request_failed
+http://hhlfy.twiladaphne.ndjp.net/#%F0%9F%87%BA%F0%9F%87%B8%20CDN	request_failed
+https://cdn4.telesco.pe/file/e3b29919d5.mp4?token=kVGdixn6aVKlSWjoKoszjk2uTYEmqh8pmM_RY_LH8EjXDsCcDEUIUX0zyR65fV8p9mNCaOTilEbDZwoP2Wvy6JEkHYLkhIs5ZyuL2vl_ozDuY6S16-OLVSVCB6bDU5dd_KSu35VwTsoCu7MruVaCAdu1_gMTA4h1yL5ZimX80LlRHDTXc-Bq4lgXRCGrOkvdrUdPiAy9WgnxuRn4q9vpxSFFBTksUT7Aov7qZzJfs-jTQSMcJCYB8-n0V1otTht_0Lg8yOJRy7KtQAq5Y67CIzuRkHX1sw9I-SB0D3sDaT_PColNKsm4NhwfDlJAXZaSQrZxg1JzVxuI_KuYPL8zpA	http_500
+
+=== 2026-08-08 04:50:58 - 失效订阅 (1 个) ===
+https://s4.laoda666.com/s/e0af55aafe5d15f2770def5fe3a428ab	http_403
