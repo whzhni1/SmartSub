@@ -10112,3 +10112,26 @@ https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1	http_403
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249	http_403
 https://1wm6e.no-mad-world.club/link/UgyL74DWPICqJua3?clash=3&amp;extend=1	http_404
 https://12sub.yylxjichangonline.top/api/v1/client/subscribe?token=2a34d84d83f8d3c91d5ff86440fded97	request_failed
+
+=== 2026-08-07 08:55:44 - 失效订阅 (18 个) ===
+https://www.reuters.com/technology/metas-ai-model-hacked-another-company-during-testing-information-reports-2026-08-05/	http_401
+https://www.npmjs.com/package/@cloudflare/computer	http_403
+https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report	http_400
+https://www.louwangzhiyu.org/api/v1/client/subscribe?token=88da017a4aa397cc97089adeedcff51d	request_failed
+http://104.16.98.215:443/	http_400
+http://151.101.56.8:443/	request_failed
+http://i.cloud--vpn.site:443/	request_failed
+http://i.cloud--vpn.site:80/	request_failed
+http://tstbot.paydar.site:80/	request_failed
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/main/sub/list/66.txt	http_404
+https://raw.githubusercontent.com/0i0/deepme-crawler/main/crawled.repos/q.txt	http_404
+http://91.107.157.137:56352/#%F0%9F%87%BA%F0%9F%87%B8%40v2rayNG_Matsuri	request_failed
+https://raw.githubusercontent.com/killgcd/chromego/main/ChromeGo/XX-Net/code/default/smart_router/local/gfw_black_list.txt	http_404
+https://raw.githubusercontent.com/dhalima3/Autoscribe/main/data/shadow.txt	http_404
+http://%3D%3D@95.38.186.235:11109/#%40Napsternetvirani%20	request_failed
+http://62.238.43.49:7443/	request_failed
+https://raw.githubusercontent.com/jth445600/hello-world/main/102.txt	http_404
+https://github.com/enterprise/premium-support	request_failed
+
+=== 2026-08-07 08:56:34 - 失效订阅 (1 个) ===
+https://47.242.128.61:5000/api/v1/client/subscribe?token=e1da6561dc32d6bb3076019ea2a79e5a	request_failed
