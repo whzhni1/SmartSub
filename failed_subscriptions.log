@@ -10188,3 +10188,34 @@ http://205.252.xxx.xxx/	http_409
 
 === 2026-08-10 04:43:25 - 失效订阅 (1 个) ===
 https://xx.pat-law.net/sub/djMsMjUzMTM2LDE3ODE0NDIzNTU50d35f463e	http_404
+
+=== 2026-08-11 04:50:28 - 失效订阅 (12 个) ===
+https://P3Z9s943PD6VV0jx.yuji.homes	request_failed
+https://P3Z9s943PD6VV0jx.yuji.homes/	request_failed
+https://xhtoken.huyun.nl/api/xiongtoken/f7249d0ad90ef0f3e49bfea4eb2e4b8b	http_403
+https://reference-url-citation.invalid/1	request_failed
+https://tineye.com/	http_403
+https://reference-url-citation.invalid/0	request_failed
+https://www.cromite.org/?utm_source=chatgpt.com	request_failed
+https://cdn4.telesco.pe/file/APxjHaxUwFIJHEqCTvDOstzSGO4KBFOVRPRK33Hg0rVEWk8LD_MFrYTD3McXfeYVjmNfCXPkr5-iegjQZncycOdk5JkU4k6JvouMPRXfyU0p5Bp-OmQ1wixS23VUVdKJ5GDu84JPW5I4cYmqiePuC_jd6FulgsIjDTYCAy9I7oIQsx1n7QC0kT23L5i0PXt0EpPzVTPvOVvY1cjKGlUpr-xTBqdOmcPXF7VqJkD85duDYo_HfrS9aT5DbmSNuWEeA1XQYMyHF_zv6ZHOU6rWV13fNvLOR8WBTKJYO7EHiqlZJWh9RYkTlpkANyFWRJZJANWkE6VvJN6LkEUZ2NEoPg	http_500
+https://cdn4.telesco.pe/file/3386912fe9.mp4?token=SctdpysaMkbmvT1tVeUT_Jbr5S9UPnZGzW-G3cxekJqKvJNciUW2MhmrDajJFDbCFGxcBBACbjwO8LjjHnpSUo9IbXhj00o2VKYf360UbpqBfz41HsNI7jNJCTADNGHLyvnQ15Lr79eNWDi8u5tTOXjAVfcRk3Fovs76JYGmxdZoVwiULYQodmoilyWz5YIu_23TQQIxSfRHuvOgMuO3wHfLUHnEN_U7euWkEeMkgi46c2eJSp8d03DRMImbM0a10OO3Qo174xNpAvpFjrCfC49B4jgxfjWMy0rnHIYdHKWjNGScB6xKGuT36zkFAlqqUQ-zEsfke2d2GJgU2WPOJg	http_500
+https://B2n.ir/pn6629	http_403
+http://yuntong.org/	request_failed
+https://v1.mk/O7LgQ2e	request_failed
+
+=== 2026-08-11 04:51:18 - 失效订阅 (15 个) ===
+https://tt.vg/6RhxWqd	request_failed
+https://tt.vg/7vWLboV	request_failed
+https://tt.vg/3EUDFY3	request_failed
+https://tt.vg/Aeqxbax	request_failed
+https://tt.vg/FIR7l0I	request_failed
+https://tt.vg/KY5Q4WO	request_failed
+https://tt.vg/KE1Bhz6	request_failed
+https://tt.vg/cDxnjnV	request_failed
+https://tt.vg/bg2oV9R	request_failed
+https://tt.vg/hHMYOat	request_failed
+https://tt.vg/qdCYv7O	request_failed
+https://tt.vg/mmF9RI0	request_failed
+https://tt.vg/zSEL6IA	request_failed
+https://tt.vg/xYGzMCu	request_failed
+https://api-qw.gonghailin.xin/7e1c2a94fbd30658c4a8d1ef92b7ac03?token=7ddb8e509959db71cc5e7a46a2ac79e8	http_403
