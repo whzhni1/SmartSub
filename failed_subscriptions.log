@@ -10245,3 +10245,14 @@ https://mytoken-1.huyun.nl/api/v1/client/subscribe?token=b3912ed20639a03de23e64a
 https://rikki.tomorin.xyz/HonkaiStarRail/3b47e9a1e7e1c935312f9a4ab9074392	http_404
 https://5e8bc530-3a90-11ef-bd5b-f23c913c8d2b:5e8bc530-3a90-11ef-bd5b-f23c913c8d2b@34a027ad-tjrog0-tobupp-1rvjz.jp4.oshuawei.com/#%F0%9F%87%AF%F0%9F%87%B5JP	http_403
 https://leviko.godmojtaba.workers.dev/8080?sub=V2rayng_Fast	http_429
+
+=== 2026-08-14 04:50:36 - 失效订阅 (6 个) ===
+https://83232441.xyz/sub/425d71f6-5c81-4ccc-829d-ab278118b170	http_403
+http://ns.ch/#%40V2rayng_Fast	request_failed
+https://d095ecc6-7b69-11eb-b77b-f23c913c8d2b:d095ecc6-7b69-11eb-b77b-f23c913c8d2b@9035056e-t9zts0-tcmken-19les.uk.oshuawei.com:443#%F0%9F%9B%9782@oneclickvpnkeys	http_403
+https://cdn4.telesco.pe/file/8983bce5d9.webp?token=E9VSBNw6vgTMep8fmvjfGWry3gytX-3U0xA_Zqk7-esfFcVyj9TE4tblBpwmkOJIlVRhrZDiUvHfAoLjppEmaUZ6piKhkl9Fw_TaDI2ZnuY9Jfvk21FcCXPdlvHes-aoW44zlQEBh1jWed6aGlz34esfTYYozx_BLygH3UKUixgYLO1k-puoC9RYsjk5bckhKyKHoJoTZulzjGTmJtHGj-jajtBq8Min1h65GIiev8j3UZb6-UHmeQXhbBDnHHI7MS7uhqTPXZ3LQmqAPXSFm2knWiVgg7B7sJGabPFCMJFoJRNT-hiZHsMvJhxK3ynNFO_98zlQKj5ujdx7ss57lg	http_500
+https://cdn4.telesco.pe/file/b238f6f474.mp4?token=HH3qIex-SzDMRX4CdiL1y8D0lUBqBf7pjS1lKcwwJg_CsJuVyre0pVHszYOm-m19-NEP76kx7tgnWIXVnQqkkfJG40n0p-vOlqQy4ogfbf-KMJ_vw-LbbJ2MAIvwYZc17cRBrefphU7wRudSH6XRrBesmWdRiveUK8830qRHjwqbIuXmy4oZyOjxh028u44Z03TcaDPAY7iKe3GQUqOmpH9FDU6bzWXURGP7xwGn2JSMRhRSTXfx3wsLCsoAjSKWULOsCeia0Sv9ij2dA4aZOraoDuTWl1ODh_Eqx_JNWrSINiXH8g06O5uD3VNUobvKRZEgiEYHP9RnjtgppwplOI3HOW89_qmi_V3ZbDlZwwtygKRXkw3lR4jhVJxOLCDw1P6tMxo_ncsD3VHFjSTJSEpxAw4rHMKgmnP1iEk1c0G4ay7h1uZTqpDea9iwBbSUQg1dP-Um-HqfU2s-Fm9Bt_R7dFOxBJ1hkWObdt1M9xBowt87cOouLs0GGtkFkFWJ8e-ugQpJz8o1UeP4gXIMqQK25aqFzbvXS34kw9n2WabMWz3hmKyykZf1zGgX8sksTxXSsVVu6wiDrnxncJCm6J3pn4IzxNx8QxOY9mBe1QynMsx5U2oRmkUmsPIlBcA8WnEPcq0gri6zC58WWK-cSXuxfIlrbxXVXb7oIguh41w	http_500
+https://opengraph.githubassets.com/ffd18a88872d265b2677ca7cedd3e581a73823e9baa048f7aa0edac7372d5b59/ermaozi/get_subscribe	http_429
+
+=== 2026-08-14 04:51:13 - 失效订阅 (1 个) ===
+https://jianhancloud.cn/3576138627/%E5%A5%87%E9%81%87%E5%85%94%E8%8A%82%E7%82%B9.txt	request_failed
